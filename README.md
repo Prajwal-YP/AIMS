@@ -5,5 +5,7 @@
 ## Outputs
 
 
->![](https://github.com/Prajwal-YP/imageCache/blob/main/op1.png)
-<p style="text-align:center">first</p>
+<p align="center">
+  >![](https://github.com/Prajwal-YP/imageCache/blob/main/op1.png)
+  first
+</p>
