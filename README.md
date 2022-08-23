@@ -4,4 +4,5 @@
 
 ## Outputs
 
-![]()
+>*1.
+>**![](https://github.com/Prajwal-YP/imageCache/blob/main/op1.png)
