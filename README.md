@@ -6,6 +6,6 @@
 
 
 <p align="center">
-  >![](https://github.com/Prajwal-YP/imageCache/blob/main/op1.png)
+  <img width="200" src="https://github.com/Prajwal-YP/imageCache/blob/main/op1.png" alt="Material Bread logo">
   first
 </p>
