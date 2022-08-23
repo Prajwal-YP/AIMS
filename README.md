@@ -6,6 +6,7 @@
 
 
 <p align="center">
-  <img width="200" src="https://github.com/Prajwal-YP/imageCache/blob/main/op1.png" alt="Material Bread logo">
-  first
+  <img src="https://github.com/Prajwal-YP/imageCache/blob/main/op1.png" alt="Main">
+  <br>
+  <b>Menu Contents<b>
 </p>
